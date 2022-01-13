@@ -1,6 +1,4 @@
 <div align='center'>
-  
-  # GitHub Campus Experts India
 
   <img src ="https://octodex.github.com/images/collabocats.jpg" width="30%"/>
 
